@@ -1,5 +1,5 @@
 # School_District_Analysis
-Data analysis of schooo district, coding in Python
+Data analysis of school district, coding in Python
 #Overview of Analysis
 
 Utilizing data provided by the school district, an analysis was performed in an Anaconda environment to track the performance of schools based on total budget, per capita budget, reading scores, and math scores. The data was inspected, and the total number of students were counted. 
